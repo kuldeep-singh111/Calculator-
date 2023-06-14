@@ -1,2 +1,2 @@
 # Calculator-
-It is used to best calculator  make!
+It used to make best calculator! 
